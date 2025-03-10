@@ -1,0 +1,20 @@
+{
+    "MODULE":[
+        {
+            "PATH": "../get_data/get_data",
+            "DELAY": 500
+        },
+        {
+            "PATH": "../save_data/save_data",
+            "DELAY": 1000
+        },
+        {
+            "PATH": "../send_data/send_data",
+            "DELAY": 1500
+        },
+        {
+            "PATH": "../display_data/display_data",
+            "DELAY": 2000
+        }
+    ]
+}
